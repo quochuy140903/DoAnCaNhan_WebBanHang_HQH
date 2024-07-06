@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "7sHmyiH3ZpDM/4HKfdrMqvOpaU7Nkb+3yzqOOPm7up4=",
+  "Source": "WebBanHang_QuocHuy.ShopingCart.LocalStorage",
+  "BasePath": "_content/WebBanHang_QuocHuy.ShopingCart.LocalStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebBanHang_QuocHuy.ShopingCart.LocalStorage\\wwwroot",
+      "Source": "WebBanHang_QuocHuy.ShopingCart.LocalStorage",
+      "ContentRoot": "D:\\Bai Giang\\Lập trình web\\WebBangHang\\WebBanHang_HQH\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/WebBanHang_QuocHuy.ShopingCart.LocalStorage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Bai Giang\\Lập trình web\\WebBangHang\\WebBanHang_HQH\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\background.png",
+      "SourceId": "WebBanHang_QuocHuy.ShopingCart.LocalStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Bai Giang\\Lập trình web\\WebBangHang\\WebBanHang_HQH\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/WebBanHang_QuocHuy.ShopingCart.LocalStorage",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "D:\\Bai Giang\\Lập trình web\\WebBangHang\\WebBanHang_HQH\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "WebBanHang_QuocHuy.ShopingCart.LocalStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Bai Giang\\Lập trình web\\WebBangHang\\WebBanHang_HQH\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\",
+      "BasePath": "_content/WebBanHang_QuocHuy.ShopingCart.LocalStorage",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

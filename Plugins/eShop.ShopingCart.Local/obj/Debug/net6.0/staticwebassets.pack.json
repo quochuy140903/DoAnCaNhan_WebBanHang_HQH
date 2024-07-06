@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Bai Giang\\Lập trình web\\WebBangHang\\WebBanHang_HQH\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "D:\\Bai Giang\\Lập trình web\\WebBangHang\\WebBanHang_HQH\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebBanHang_QuocHuy.ShopingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props",
+      "PackagePath": "build\\WebBanHang_QuocHuy.ShopingCart.LocalStorage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props",
+      "PackagePath": "buildMultiTargeting\\WebBanHang_QuocHuy.ShopingCart.LocalStorage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props",
+      "PackagePath": "buildTransitive\\WebBanHang_QuocHuy.ShopingCart.LocalStorage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
